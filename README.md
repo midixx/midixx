@@ -1,15 +1,9 @@
-![Header](https://github.com/midixx/midixx/blob/main/assets/matrix-code.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## I'm a programmer, novice hacker and designer in the IT world.
-
-Latest Telegram articles
-
-### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-323334?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-4e9442?style=for-the-badge&logo=C%2b%2b)
-![HTML5](https://img.shields.io/badge/-html5-323334?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-css3-4e9442?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323334?style=for-the-badge&logo=Javascript)
-![Photoshop](https://img.shields.io/badge/-Photoshop-4e9442?style=for-the-badge&logo=photoshop)
-
-Follow me
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
