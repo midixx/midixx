@@ -37,4 +37,4 @@ I am a python and web development <img src="https://media.giphy.com/media/l3nW3j
 
 - :zap: In my free time I solve problems on GeeksforGeeks and read technical articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]()
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PSQ_official)
