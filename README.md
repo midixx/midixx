@@ -28,3 +28,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="600" height="300"/>
 </div>
+
+### :woman_technologist: About Me :
+I am a python and web development <img src="https://media.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif" width="30"> from Tokio.
+- :telescope: I work as a software engineer and participate in the creation of software to improve life.
+
+- :seedling: Learning to write technical content.
+
+- :zap: In my free time I solve problems on GeeksforGeeks and read technical articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]()
