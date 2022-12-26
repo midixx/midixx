@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="100%" height="100%"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -25,9 +25,9 @@
     </h1>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="600" height="300"/>
-</div> -->
+</div>
 
 ### :woman_technologist: About Me :
 I am a python and web development <img src="https://media.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif" width="30"> from Tokio.
@@ -54,9 +54,7 @@ I am a python and web development <img src="https://media.giphy.com/media/l3nW3j
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=midixx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
