@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=midixx)](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/gotham.svg)
+[![Ashutosh's github activity graph](https://activity-graph.gotham.com/graph?username=midixx)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--<div align="center">
     <h1>
