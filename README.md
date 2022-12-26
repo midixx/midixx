@@ -18,10 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=midixx&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=midixx)](https://github.com/midixx/github-readme-activity-graph)
-
 <!--<div align="center">
     <h1>
     hey there
