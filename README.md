@@ -12,7 +12,7 @@ with:
 
 
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Metrics/midixx
 on: midixx/midixx
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -35,7 +35,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ https://metrics.lecoq.io/midixx?template=classic&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&anilist=false&anilist.user=psqkill&anilist.medias=manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FNovokuznetsk }}
 
           # Options
           user: midixx
