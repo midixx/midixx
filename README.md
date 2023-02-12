@@ -9,4 +9,4 @@ with:
   with:
     config_timezone: Russia/Moskow -->
 
-(https://metrics.lecoq.io/midixx?template=classic&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&anilist=false&anilist.user=psqkill&anilist.medias=manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FNovokuznetsk)
+https://metrics.lecoq.io/midixx?template=classic&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&anilist=false&anilist.user=psqkill&anilist.medias=manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FNovokuznetsk
