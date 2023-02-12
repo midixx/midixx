@@ -11,43 +11,4 @@ with:
 
 
 
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on: 
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ https://metrics.lecoq.io/midixx?template=classic&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&anilist=false&anilist.user=psqkill&anilist.medias=manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FNovokuznetsk }}
-
-          # Options
-          user: midixx
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Novokuznetsk
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: psqkill
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+![Metrics](https://metrics.lecoq.io/midixx?template=classic&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&anilist=false&anilist.user=psqkill&anilist.medias=manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FNovokuznetsk)
