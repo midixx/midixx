@@ -12,8 +12,8 @@ with:
 
 
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics/midixx
-on: midixx/midixx
+name: Metrics
+on: 
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
